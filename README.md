@@ -1,2 +1,0 @@
-# primera
-inicio
